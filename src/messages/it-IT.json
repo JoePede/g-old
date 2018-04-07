@@ -261,7 +261,7 @@
     "id": "rights.header",
     "description": "Header of privilegemanager",
     "defaultMessage": "Rights",
-    "message": "",
+    "message": "diritti",
     "files": ["src/components/AccountDetails/AccountDetails.js"]
   },
   {
@@ -275,7 +275,7 @@
     "id": "discussion.new",
     "description": "Title for activity",
     "defaultMessage": "New discussion",
-    "message": "",
+    "message": "Nuova discussione",
     "files": ["src/components/Activity/Activity.js"]
   },
   {
@@ -296,14 +296,14 @@
     "id": "proposal.rejected",
     "description": "Proposal can be voted from now on",
     "defaultMessage": "Voting open",
-    "message": "",
+    "message": "Votazione aperta",
     "files": ["src/components/Activity/Activity.js"]
   },
   {
     "id": "proposal.revoked",
     "description": "Proposal was revoked",
     "defaultMessage": "Revoked",
-    "message": "",
+    "message": "Ritirata",
     "files": ["src/components/Activity/Activity.js"]
   },
   {
