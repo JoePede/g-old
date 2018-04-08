@@ -209,7 +209,7 @@
     "id": "account.emailValidationMissing",
     "description": "Email not validated",
     "defaultMessage": "Email not validated",
-    "message": "",
+    "message": "Indirizzo E-mail non confermato",
     "files": ["src/components/AccountDetails/AccountDetails.js"]
   },
   {
